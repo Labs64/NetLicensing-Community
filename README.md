@@ -44,7 +44,8 @@ Here we track NetLicensing's known issues and feature requests. You can use this
 - [![GitHub issues open](https://img.shields.io/github/issues/Labs64/NetLicensing-Schema.svg)](https://github.com/Labs64/NetLicensing-Schema/issues) [Labs64/NetLicensing-Schema](https://github.com/Labs64/NetLicensing-Schema) - XML Schema
 - [![GitHub issues open](https://img.shields.io/github/issues/Labs64/NetLicensing-Zapier.svg)](https://github.com/Labs64/NetLicensing-Zapier/issues) [Labs64/NetLicensing-Zapier](https://github.com/Labs64/NetLicensing-Zapier) - NetLicensing / Zapier Integration
 - [![GitHub issues open](https://img.shields.io/github/issues/Labs64/NetLicensing-Demo.svg)](https://github.com/Labs64/NetLicensing-Demo/issues) [Labs64/NetLicensing-Demo](https://github.com/Labs64/NetLicensing-Demo) - NetLicensing Demo Application
-- [![GitHub issues open](https://img.shields.io/github/issues/Labs64/NetLicensing-PrestaShop.svg)](https://github.com/Labs64/NetLicensing-PrestaShop/issues) [Labs64/NetLicensing-PrestaShop](https://github.com/Labs64/NetLicensing-PrestaShop) - NetLicensing PrestaShop plugin
+- [![GitHub issues open](https://img.shields.io/github/issues/Labs64/NetLicensing-PrestaShop.svg)](https://github.com/Labs64/NetLicensing-PrestaShop/issues) [Labs64/NetLicensing-PrestaShop](https://github.com/Labs64/NetLicensing-PrestaShop) - NetLicensing PrestaShop licensing plugin
+- [![GitHub issues open](https://img.shields.io/github/issues/Labs64/PluginPass.svg)](https://github.com/Labs64/PluginPass/issues) [Labs64/PluginPass](https://github.com/Labs64/PluginPass) - WordPress PRO Plugin/Theme Licensing
 
 
 ## License and Copyright
