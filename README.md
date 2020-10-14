@@ -20,7 +20,7 @@ Here we track NetLicensing's known issues and feature requests. You can use this
 - Use one of the repositories [below](#open-source-netlicensing-repositories) if you got a specific question related to the functionality of these libraries and projects.
 
 
-## Ressources
+## Resources
 
 ### 📖 Documentation
 
