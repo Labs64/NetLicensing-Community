@@ -2,11 +2,12 @@
 
 # NetLicensing Community Support
 
+[![GitHub issues open](https://img.shields.io/github/issues/Labs64/NetLicensing-Community.svg)](https://github.com/Labs64/NetLicensing-Community/issues) 
+[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/Labs64/NetLicensing-Community.svg)](https://github.com/Labs64/NetLicensing-Community/issues?q=is%3Aissue+is%3Aclosed)
 [![NetLicensing](https://img.shields.io/badge/NetLicensing-IO-E14817.svg?logo=NetLicensing)](https://netlicensing.io)
 [![📖 Documentation](https://img.shields.io/badge/📖%20Documentation-Wiki-AB6543.svg)](https://netlicensing.io/wiki/)
 [![NetLicensing @ LinkedIn](https://img.shields.io/badge/NetLicensing-0077B5.svg?logo=LinkedIn)](https://www.linkedin.com/showcase/netlicensing)
-[![GitHub issues open](https://img.shields.io/github/issues/Labs64/NetLicensing-Community.svg)](https://github.com/Labs64/NetLicensing-Community/issues) 
-[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/Labs64/NetLicensing-Community.svg)](https://github.com/Labs64/NetLicensing-Community/issues?q=is%3Aissue+is%3Aclosed)
+
 
 Here we track NetLicensing's known issues and feature requests. You can use this [tracker](https://github.com/Labs64/NetLicensing-Community/issues) to report bugs and to request and vote for new NetLicensing features, as well as collaborate, asking questions around license management and support new NetLicensing adopters.
 
