@@ -32,20 +32,20 @@ Here we track NetLicensing's known issues and feature requests. You can use this
 
 ### Open Source NetLicensing repositories
 
-- https://github.com/Labs64/NetLicensingClient-java
-- https://github.com/Labs64/NetLicensingClient-kotlin
-- https://github.com/Labs64/NetLicensingClient-csharp
-- https://github.com/Labs64/NetLicensingClient-javascript
-- https://github.com/Labs64/NetLicensingClient-php
-- https://github.com/Labs64/NetLicensingClient-cpp
-- https://github.com/Labs64/NetLicensingClient-python (⚒️ WIP)
-- https://github.com/Labs64/NetLicensing-Gateway
-- https://github.com/Labs64/NetLicensing-FastSpring
-- https://github.com/Labs64/NetLicensing-API
-- https://github.com/Labs64/NetLicensing-Schema
-- https://github.com/Labs64/NetLicensing-Zapier
-- https://github.com/Labs64/NetLicensing-Demo
-- https://github.com/Labs64/NetLicensing-PrestaShop
+- [![GitHub issues open](https://img.shields.io/github/issues/Labs64/NetLicensingClient-java.svg)]() [Labs64/NetLicensingClient-java](https://github.com/Labs64/NetLicensingClient-java) - TODO
+- [![GitHub issues open](https://img.shields.io/github/issues/Labs64/NetLicensingClient-kotlin.svg)]() [Labs64/NetLicensingClient-kotlin](https://github.com/Labs64/NetLicensingClient-kotlin) - TODO
+- [![GitHub issues open](https://img.shields.io/github/issues/Labs64/NetLicensingClient-csharp.svg)]() [Labs64/NetLicensingClient-csharp](https://github.com/Labs64/NetLicensingClient-csharp) - TODO
+- [![GitHub issues open](https://img.shields.io/github/issues/Labs64/NetLicensingClient-javascript.svg)]() [Labs64/NetLicensingClient-javascript](https://github.com/Labs64/NetLicensingClient-javascript) - TODO
+- [![GitHub issues open](https://img.shields.io/github/issues/Labs64/NetLicensingClient-php.svg)]() [Labs64/NetLicensingClient-php](https://github.com/Labs64/NetLicensingClient-php) - TODO
+- [![GitHub issues open](https://img.shields.io/github/issues/Labs64/NetLicensingClient-cpp.svg)]() [Labs64/NetLicensingClient-cpp](https://github.com/Labs64/NetLicensingClient-cpp) - TODO
+- [![GitHub issues open](https://img.shields.io/github/issues/Labs64/NetLicensingClient-python.svg)]() [Labs64/NetLicensingClient-python](https://github.com/Labs64/NetLicensingClient-python) - TODO (⚒️ WIP)
+- [![GitHub issues open](https://img.shields.io/github/issues/Labs64/NetLicensing-Gateway.svg)]() [Labs64/NetLicensing-Gateway](https://github.com/Labs64/NetLicensing-Gateway) - TODO
+- [![GitHub issues open](https://img.shields.io/github/issues/Labs64/NetLicensing-FastSpring.svg)]() [Labs64/NetLicensing-FastSpring](https://github.com/Labs64/NetLicensing-FastSpring) - TODO
+- [![GitHub issues open](https://img.shields.io/github/issues/Labs64/NetLicensing-API.svg)]() [Labs64/NetLicensing-API](https://github.com/Labs64/NetLicensing-API) - TODO
+- [![GitHub issues open](https://img.shields.io/github/issues/Labs64/NetLicensing-Schema.svg)]() [Labs64/NetLicensing-Schema](https://github.com/Labs64/NetLicensing-Schema) - TODO
+- [![GitHub issues open](https://img.shields.io/github/issues/Labs64/NetLicensing-Zapier.svg)]() [Labs64/NetLicensing-Zapier](https://github.com/Labs64/NetLicensing-Zapier) - TODO
+- [![GitHub issues open](https://img.shields.io/github/issues/Labs64/NetLicensing-Demo.svg)]() [Labs64/NetLicensing-Demo](https://github.com/Labs64/NetLicensing-Demo) - TODO
+- [![GitHub issues open](https://img.shields.io/github/issues/Labs64/NetLicensing-PrestaShop.svg)]() [Labs64/NetLicensing-PrestaShop](https://github.com/Labs64/NetLicensing-PrestaShop) - TODO
 
 
 ## License and Copyright
