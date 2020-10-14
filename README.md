@@ -14,8 +14,9 @@ Here we track NetLicensing's known issues and feature requests. You can use this
 ## How to collaborate
 
 - Create a [new issue](https://github.com/Labs64/NetLicensing-Community/issues/new/choose)
-- Be precise - provide all relevant information which will help us better analyse your issue or answer the question
+- Be precise, provide all relevant information which will help us better analyse your issue or answer the question
 - Use `demo:demo` account if need to show specific NetLicensing configuration; use entities numbers as a reference and/or take the screenshots.
+- Use one of the repositories [below](#open-source-netlicensing-repositories) if you got a specific question related to the functionality of these libraries and projects.
 
 
 ## Ressources
@@ -37,7 +38,7 @@ Here we track NetLicensing's known issues and feature requests. You can use this
 - https://github.com/Labs64/NetLicensingClient-javascript
 - https://github.com/Labs64/NetLicensingClient-php
 - https://github.com/Labs64/NetLicensingClient-cpp
-- https://github.com/Labs64/NetLicensingClient-python (WIP)
+- https://github.com/Labs64/NetLicensingClient-python (⚒️ WIP)
 - https://github.com/Labs64/NetLicensing-Gateway
 - https://github.com/Labs64/NetLicensing-FastSpring
 - https://github.com/Labs64/NetLicensing-API
