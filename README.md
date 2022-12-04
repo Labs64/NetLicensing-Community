@@ -11,6 +11,7 @@
 
 Here we track NetLicensing's known issues and feature requests. You can use this [tracker](https://github.com/Labs64/NetLicensing-Community/issues) to report bugs and to request and vote for new NetLicensing features, as well as collaborate, asking questions around license management and support new NetLicensing adopters.
 
+<a href="https://github.com/Labs64/NetLicensing-Community/issues/new/choose"><img src="https://raw.githubusercontent.com/Labs64/NetLicensing-Community/master/assets/nlic-new-issue.png" alt="NetLicensing Community Support"></a>
 
 ## How to collaborate
 
