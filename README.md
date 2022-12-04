@@ -14,7 +14,7 @@ Here we track NetLicensing's known issues and feature requests. You can use this
 
 ## How to collaborate
 
-- Create a [new issue](https://github.com/Labs64/NetLicensing-Community/issues/new/choose)
+- Create a [new issue](https://github.com/Labs64/NetLicensing-Community/issues/new/choose) or [existing issues](https://github.com/Labs64/NetLicensing-Community/issues?q=is%3Aissue+is%3Aclosed)
 - Be precise, provide all relevant information which will help us better analyse your issue or answer the question
 - Use `demo:demo` account if need to show specific NetLicensing configuration; use entities numbers as a reference and/or take the screenshots.
 - Use one of the repositories [below](#open-source-netlicensing-repositories) if you got a specific question related to the functionality of these libraries and projects.
