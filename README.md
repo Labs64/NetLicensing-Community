@@ -12,13 +12,13 @@
 Here we track NetLicensing's known issues and feature requests. You can use this [tracker](https://github.com/orgs/Labs64/discussions?discussions_q=is%3Aopen) to report bugs and to request and vote for new NetLicensing features, as well as collaborate, asking questions around license management and support new NetLicensing adopters.
 
 <p align="center">
-<a href="https://github.com/orgs/Labs64/discussions/new/choose"><img src="https://raw.githubusercontent.com/Labs64/NetLicensing-Community/master/assets/nlic-new-issue.png" alt="NetLicensing Community Support - New Issue"></a>
-<a href="https://github.com/orgs/Labs64/discussions?discussions_q="><img src="https://github.com/Labs64/NetLicensing-Community/blob/master/assets/nlic-view-issues.png" alt="NetLicensing Community Support - View Issues"></a>
+<a href="https://github.com/orgs/Labs64/discussions/new/choose"><img src="https://raw.githubusercontent.com/Labs64/NetLicensing-Community/master/assets/nlic-new-issue.png" alt="NetLicensing Community Support - New discussion"></a>
+<a href="https://github.com/orgs/Labs64/discussions?discussions_q="><img src="https://github.com/Labs64/NetLicensing-Community/blob/master/assets/nlic-view-issues.png" alt="NetLicensing Community Support - View discussions"></a>
 </p>
 
 ## How to collaborate
 
-- Create a [new issue](https://github.com/orgs/Labs64/discussions/new/choose) or scan [existing issues](https://github.com/orgs/Labs64/discussions?discussions_q=)
+- Create a [new discussion](https://github.com/orgs/Labs64/discussions/new/choose) or scan [existing discussions](https://github.com/orgs/Labs64/discussions?discussions_q=)
 - Be precise, provide all relevant information which will help us better analyse your issue or answer the question
 - Use `demo:demo` account if need to show specific NetLicensing configuration; use entities numbers as a reference and/or take the screenshots.
 - Use one of the repositories [below](#open-source-netlicensing-repositories) if you got a specific question related to the functionality of these libraries and projects.
