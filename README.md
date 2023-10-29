@@ -9,7 +9,7 @@
 [![NetLicensing @ LinkedIn](https://img.shields.io/badge/NetLicensing-0077B5.svg?logo=LinkedIn)](https://www.linkedin.com/showcase/netlicensing)
 
 
-Here we track NetLicensing's known issues and feature requests. You can use this [tracker](https://github.com/Labs64/NetLicensing-Community/issues) to report bugs and to request and vote for new NetLicensing features, as well as collaborate, asking questions around license management and support new NetLicensing adopters.
+Here we track NetLicensing's known issues and feature requests. You can use this [tracker](https://github.com/orgs/Labs64/discussions?discussions_q=is%3Aopen) to report bugs and to request and vote for new NetLicensing features, as well as collaborate, asking questions around license management and support new NetLicensing adopters.
 
 <p align="center">
 <a href="https://github.com/orgs/Labs64/discussions/new/choose"><img src="https://raw.githubusercontent.com/Labs64/NetLicensing-Community/master/assets/nlic-new-issue.png" alt="NetLicensing Community Support - New Issue"></a>
@@ -18,7 +18,7 @@ Here we track NetLicensing's known issues and feature requests. You can use this
 
 ## How to collaborate
 
-- Create a [new issue](https://github.com/Labs64/NetLicensing-Community/issues/new/choose) or scan [existing issues](https://github.com/Labs64/NetLicensing-Community/issues?q=is%3Aissue+is%3Aclosed)
+- Create a [new issue](https://github.com/orgs/Labs64/discussions/new/choose) or scan [existing issues](https://github.com/orgs/Labs64/discussions?discussions_q=)
 - Be precise, provide all relevant information which will help us better analyse your issue or answer the question
 - Use `demo:demo` account if need to show specific NetLicensing configuration; use entities numbers as a reference and/or take the screenshots.
 - Use one of the repositories [below](#open-source-netlicensing-repositories) if you got a specific question related to the functionality of these libraries and projects.
